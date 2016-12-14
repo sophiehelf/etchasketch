@@ -1,0 +1,47 @@
+body {
+  display: flex;
+}
+
+#well {
+  clear: both;
+  margin: auto;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#container {
+  position: relative;
+  outline: 1px dashed #3a58d1;
+	font-size: 0;
+	margin:auto;
+	width:650px;
+	padding: 0;
+	border: none;
+  background-color: #fff;
+  display: block;
+}
+
+#buttons {
+  display: inline-block;
+}
+
+.brick {
+ margin:0;
+	padding:0;
+	display:inline-block;
+}
+
+.hover {
+  background-color: #3a58d1;
+}
+
+button {
+  margin-bottom: 10px;
+  border: 1px solid #3a58d1;
+  background-color: #fff;
+}
+
+button:hover {
+  background-color: #3266ba;
+  color: #fff;
+}
