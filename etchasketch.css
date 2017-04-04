@@ -12,11 +12,11 @@ body {
 #container {
   position: relative;
   outline: 1px dashed #3a58d1;
-	font-size: 0;
-	margin:auto;
-	width:650px;
-	padding: 0;
-	border: none;
+  font-size: 0;
+  margin:auto;
+  width:650px;
+  padding: 0;
+  border: none;
   background-color: #fff;
   display: block;
 }
@@ -27,8 +27,8 @@ body {
 
 .brick {
  margin:0;
-	padding:0;
-	display:inline-block;
+  padding:0;
+  display:inline-block;
 }
 
 .hover {
